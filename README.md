@@ -1,2 +1,2 @@
 # projekt1
-mój pierwszy projekt
+mój pierwszy projekt szkoleniowy, dzień czwarty.
